@@ -1,0 +1,19 @@
+Press a button on the Remote Control
+1.Power 2.Volume Up by 50% 3.Volume Down by 50% 4.Channel Up 5.Channel Down 6.Go outside
+1
+Power button Pressed
+[television is:on? true CHANNEL: 1/10 VOLUME: 0%
+2
+Volume Up by 50% Button Pressed
+[television is:on? true CHANNEL: 1/10 VOLUME: 0%
+3
+Volume Down by 50% Button Pressed
+[television is:on? true CHANNEL: 1/10 VOLUME: 0%
+4
+Channel Up Button Pressed
+[television is:on? true CHANNEL: 1/10 VOLUME: 0%
+5
+Channel Down Button Pressed
+[television is:on? true CHANNEL: 1/10 VOLUME: 0%
+6
+Stop watching TV and go outside
